@@ -36,5 +36,14 @@ This project implements real-time emotion detection using a webcam feed. It util
 
 5. **Stop the Application**: Press 'q' to exit the video stream.
 
+## Output Examples
+
+Here are some output examples:
+
+![Image 1](src/output_images/angry.png)
+![Image 2](src/output_images/happy.png)
+![Image 3](src/output_images/neutral.png)
+![Image 4](src/output_images/surprised.png)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
